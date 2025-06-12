@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/1f74760e-ac03-46fc-a5bf-ac38123f033a) 
 # Event Planning Web Application
 
-**EVENTR** is a web-based platform for collaboratively planning dining events. Users vote on locations and times, and the system automatically selects the most popular options. It was developed as a project in the Software Architecture course at the University of Innsbruck.
+**EVENTR** is a web-based multiuser platform for collaboratively planning dining events. Users vote on locations and times, and the system automatically selects the most popular options. It was developed as a project in the Software Architecture course at the University of Innsbruck.
 
 ## Features
 
